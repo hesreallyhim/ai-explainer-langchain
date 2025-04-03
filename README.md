@@ -1,4 +1,10 @@
-# AI Explainer 
+# ai-explainer-langchain
+
+This is a fork of Jeff Huber's [AI Explainer](https://github.com/chroma-core/ai_explainer) - a set of notebooks going through simple AI chat interactions. I'm updating it to use current APIs, as well as adding notebooks for LangChain.
+
+The original README is printed below.
+
+***
 
 All examples are current in Python. 
 
